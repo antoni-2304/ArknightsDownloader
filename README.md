@@ -1,3 +1,5 @@
+**Multithreaded, suspendable and network error resilient downloader of Arknights assets.**
+
 # Preparing
 Go to **"Actions"** and download latest version for your OS + CPU, then unpack it
 # Using
