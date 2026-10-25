@@ -31,4 +31,4 @@ value.
 * `servers` - list of game's servers, all known ones are added by default.
   * `key` - used as a folder name
   * `name` - displayed in program
-  * `url` - server's location
+  * `url` - server's location 
